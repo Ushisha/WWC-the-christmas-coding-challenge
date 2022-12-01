@@ -2,7 +2,7 @@
 
 ## The challenge
 
-Create animated a seasonal greeting card using p5.js.
+Create an animated seasonal greeting card using p5.js.
 
 ## Screenshot
 
