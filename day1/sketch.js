@@ -1,15 +1,17 @@
 let snowflakes = [] // array to hold snowflake objects
 let bg
-
+let Text = 'Merry Christmas'
 function setup() {
-  bg = loadImage('assets/snowman.jpg')
+  bg = loadImage('assets/snowman2.jpg')
   createCanvas(720, 720)
   // fill(240)
+
   noStroke()
 }
 
 function draw() {
   background(bg)
+
   // update time
   let t = frameCount / 60
 
